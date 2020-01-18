@@ -1,6 +1,7 @@
 ---
 type: grammar
 name: language-gfm
+version: 8e5a9d4809b2814f01159d9f3d3a8bd38ace6ff7
 license: mit
 ---
 Copyright (c) 2014 GitHub Inc.

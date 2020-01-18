@@ -1,8 +1,8 @@
 ---
 type: grammar
 name: elixir-tmbundle
+version: 69fdc72a1c96986dc4227ef733f15741faf0180c
 license: apache-2.0
-curated: true
 ---
 Copyright 2012 Plataformatec.
 
